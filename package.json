@@ -4,7 +4,6 @@
   "description": "See your grades straight from a terminal window",
   "main": "gradeview.js",
   "scripts": {},
-  "keywords": [],
   "author": "Cyberscape <info@cyberscape.co>",
   "license": "MIT",
   "dependencies": {
