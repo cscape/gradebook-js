@@ -2,7 +2,7 @@ require('dotenv').config()
 const axios = require('axios')
 const cheerio = require('cheerio')
 const request = require('request')
-const check = require('./wavecheck')
+const check = require('./html-filtering')
 
 const grdSource = 'https://gradebook.dadeschools.net/Pinnacle/Gradebook/InternetViewer/GradeSummary.aspx'
 const envStudentID = process.env.STUDENT
