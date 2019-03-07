@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Cyberscape <info@cyberscape.co>",
+  "license": "MIT",
   "dependencies": {
     "as-table": "^1.0.36",
     "axios": "^0.18.0",
