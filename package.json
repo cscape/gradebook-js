@@ -4,7 +4,9 @@
   "private": true,
   "description": "See your grades straight from a terminal window",
   "main": "gradeview.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node -r dotenv/config gradeview.js"
+  },
   "author": "Cyberscape <info@cyberscape.co>",
   "license": "MIT",
   "dependencies": {
